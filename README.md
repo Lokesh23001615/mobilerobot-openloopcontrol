@@ -99,7 +99,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-https://youtube.com/shorts/WErbTIDquM0?feature=shared
+https://youtu.be/mjNaWHZT78Q
 
 
 ## Result:
